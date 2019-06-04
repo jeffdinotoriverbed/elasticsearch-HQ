@@ -8,6 +8,7 @@ Simplified Monitoring and Management for ElasticSearch clusters.
 [![gitHub issues](https://img.shields.io/github/issues/ElasticHQ/elasticsearch-HQ.svg)](https://github.com/ElasticHQ/elasticsearch-HQ)
 ![python](https://img.shields.io/badge/python-v3.4%20%2F%20v3.6-blue.svg)
 [![license](https://img.shields.io/badge/license-ASL-blue.svg)](https://opensource.org/licenses/ASL)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Felasticsearch-HQ.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Felasticsearch-HQ?ref=badge_shield)
 
 
 ![alt text](https://raw.githubusercontent.com/ElasticHQ/elasticsearch-HQ/master/main_dashboard.png)
@@ -62,3 +63,7 @@ For further instructions, please see relevant documentation: [Docker Images](htt
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Felasticsearch-HQ.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Felasticsearch-HQ?ref=badge_large)
